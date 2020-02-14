@@ -1,0 +1,14 @@
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\ART-CrawlerExample.exe
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\ART-CrawlerExample.deps.json
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\ART-CrawlerExample.runtimeconfig.json
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\ART-CrawlerExample.runtimeconfig.dev.json
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\ART-CrawlerExample.dll
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\ART-CrawlerExample.pdb
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\obj\Debug\netcoreapp3.1\ART-CrawlerExample.csprojAssemblyReference.cache
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\obj\Debug\netcoreapp3.1\ART-CrawlerExample.AssemblyInfoInputs.cache
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\obj\Debug\netcoreapp3.1\ART-CrawlerExample.AssemblyInfo.cs
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\obj\Debug\netcoreapp3.1\ART-CrawlerExample.csproj.CopyComplete
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\obj\Debug\netcoreapp3.1\ART-CrawlerExample.dll
+C:\Users\Tolgacinars\Documents\GitHub\ART-CrawlerExample\obj\Debug\netcoreapp3.1\ART-CrawlerExample.pdb
